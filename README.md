@@ -4,6 +4,10 @@
 
 ## 플젝 세팅
 
+```
+git clone https://github.com/fecapark/cf-worker-next-ssr-issue.git
+```
+
 ### 의존성 설치
 
 ```
