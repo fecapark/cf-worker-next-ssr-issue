@@ -1,5 +1,7 @@
 # 최소 재현 레포
 
+[https://nextjs-cf-ssr-issue.yourssu-com4234.workers.dev](https://nextjs-cf-ssr-issue.yourssu-com4234.workers.dev)
+
 ## 플젝 세팅
 
 ### 의존성 설치
